@@ -1,4 +1,4 @@
-# dalpei's web dashboard
+# dalpei's dashboard
 
 project 1. AiMON
 
